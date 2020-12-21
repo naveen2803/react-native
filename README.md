@@ -16,5 +16,5 @@ This code was created using expo with the following commands
 This will start the project locally and a webpage will open with the QR code.
 
 ### To view this app on a mobile, install the "expo client" app on your mobile
-- Use your phone's(iPhone) camera and scan the QR
-- Select to open the app with expo option in the popup
+- Use your phone's(iPhone) camera and scan the QR code
+- Select to open the app with expo option from the popup
